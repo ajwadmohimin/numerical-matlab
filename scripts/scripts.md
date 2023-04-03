@@ -1,1 +1,1 @@
-In this folder the scripts can be found
+This folder contains the matlab scripts.
